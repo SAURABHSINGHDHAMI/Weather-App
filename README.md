@@ -1,6 +1,6 @@
 # Weather App :partly_sunny:
 
-A Weather Application in Python that detects the current weather data of a specified city.
+A Weather Application in Python that shows the current weather data of a specified city.
 
 Used the Open Weather API to fetch the data. 
 https://openweathermap.org/api
