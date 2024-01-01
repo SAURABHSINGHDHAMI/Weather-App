@@ -12,26 +12,6 @@ The Weather App is a Python-based application that utilizes the OpenWeatherMap A
 - Simple and intuitive user interface.
 - Real-time updates from OpenWeatherMap API.
 
-## Sample
-
-```python
-# weather.py
-
-import tkinter as tk
-import requests
-import time
-
-def getWeather(canvas):
-    # ... (existing code)
-
-canvas = tk.Tk()
-canvas.geometry("600x500")
-canvas.title("Weather App")
-
-# ... (existing code)
-
-canvas.mainloop()
-```
 ## Open Weather API
 
 This application uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
