@@ -2,14 +2,9 @@
 
 A simple and elegant Python Weather Application that displays the current weather data of a specified city.
 
-Used the Open Weather API to fetch the data. 
-https://openweathermap.org/api
-
 <p align="center">
   <img src="https://github.com/SAURABHSINGHDHAMI/Weather-App/blob/main/sample/delhi_weather_screenshot.jpg" />
 </p>
-
-_Example screenshot of Weather-App
 
 ## About
 
@@ -41,6 +36,9 @@ canvas.title("Weather App")
 
 canvas.mainloop()
 ```
+## Open Weather API
+
+This application uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
 
 ## Installation
 
