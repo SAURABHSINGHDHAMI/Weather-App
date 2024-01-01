@@ -42,5 +42,3 @@ This application seamlessly integrates with the [OpenWeatherMap API](https://ope
 2. **Enter the Desired City:**
     - Input the desired city in the text field.
     - Press Enter to fetch the latest weather information.
-
-Enjoy exploring the weather in style with our Weather App! 🌈
