@@ -20,7 +20,7 @@ This application seamlessly integrates with the [OpenWeatherMap API](https://ope
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Weather-App.git
+    git clone https://github.com/SAURABHSINGHDHAMI/Weather-App.git
     ```
 
 2. **Install the Required Dependencies:**
